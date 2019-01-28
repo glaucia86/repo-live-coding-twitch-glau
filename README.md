@@ -8,7 +8,7 @@ Repositório responsável por listar os projetos desenvolvidos durante a live co
 
 - **Temporada 1:**
 
-    - S01E00 (26/01/2019) - **[Desenvolvendo um ChatBot em Node.js com Microsoft Bot Framework v.3 - Pizzaria Italiana]()**
+    - S01E00 (26/01/2019) - **[Desenvolvendo um ChatBot em Node.js com Microsoft Bot Framework v.3 - Pizzaria Italiana](https://www.twitch.tv/videos/370957561)**
 
     - S01E01 (03/02/2019) - **[Desenvolvimento de Aplicação .NET com Manipulação de Arquivos (.csv, .txt)]()**
 
