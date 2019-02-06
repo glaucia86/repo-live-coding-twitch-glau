@@ -8,16 +8,17 @@ Repositório responsável por listar os projetos desenvolvidos durante a live co
 
 - **Temporada 1:**
 
-    - S01E00 (26/01/2019) - **[Desenvolvendo um ChatBot em Node.js com Microsoft Bot Framework v.3 - Pizzaria Italiana](https://www.twitch.tv/videos/370957561)**
+    - S01E00 (26/01/2019) - **[Desenvolvendo um ChatBot em Node.js com Microsoft Bot Framework v.3 - Pizzaria Italiana](https://www.youtube.com/watch?v=nnzlOpDDZQc)**
         - **[Código Desenvolvido](https://github.com/glaucia86/live-coding-chatbot-nodejs)**
 
-    - S01E01 (03/02/2019) - **[Desenvolvimento de Aplicação .NET com Manipulação de Arquivos (.csv, .txt)]()**
+    - S01E01 (03/02/2019) - **[Desenvolvimento de Aplicação .NET com Manipulação de Arquivos (.csv, .txt)](https://www.youtube.com/watch?v=BbaxQnvqy38)**
+        - **[Código Desenvolvido](https://github.com/glaucia86/live-coding-csharp-manipulacao-arquivos)
 
-    - S01E02 (10/02/2019) - **[Bora Aprender TDD com Mocha, Chai & Node.js - Parte I ]()**
+    - S01E02 (10/02/2019) - **[API RestFul TDD Node.js com Mocha & Chai - Parte I ]()**
 
-    - S01E03 (17/02/2019) - **[Bora Aprender TDD Node.js com Mocha & Chai - Parte II]()**
+    - S01E03 (17/02/2019) - **[API RestFul TDD Node.js com Mocha & Chai - Parte II]()**
 
-    - S01E04 (24/02/2019) - **[Bora Aprender TDD Node.js com Mocha & Chai - Parte III]()**
+    - S01E04 (24/02/2019) - **[API RestFul TDD Node.js com Mocha & Chai - Parte III]()**
 
 
 ## Programação das Lives 🚀
