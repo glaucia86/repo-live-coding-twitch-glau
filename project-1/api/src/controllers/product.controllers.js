@@ -22,3 +22,9 @@ exports.createProduct = async(req, res) => {
     },
   });
 };
+
+//==> Metodo responsável por selecionar todos os 'Products'
+exports.listAllProducts = async(req, res) => {
+  const response = await db.query('SELECT * FROM products ORDER BY product_name ASC');
+  res.status(200).send(response.rows);
+};
