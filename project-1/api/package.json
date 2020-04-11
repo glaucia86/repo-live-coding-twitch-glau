@@ -1,15 +1,21 @@
 {
   "name": "project-1",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Aplicação CRUD com Node.js + PostGreSQL + Azure.",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon",
     "lint": "eslint --ext .js,.html -f ./node_modules/eslint-friendly-formatter . --fix",
     "prepush": "npm run lint",
     "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "postgresql",
+    "crud",
+    "azure",
+    "node-postgres"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
